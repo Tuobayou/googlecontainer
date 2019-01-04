@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-scheduler:v1.12.0
+FROM k8s.gcr.io/kube-scheduler:v1.13.1
 MAINTAINER kun.zhang@qingtui.cn
