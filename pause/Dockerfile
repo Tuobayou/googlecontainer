@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/pause:v1.14.2
+FROM k8s.gcr.io/pause:3.1
 MAINTAINER kun.zhang@qingtui.cn
